@@ -35,15 +35,3 @@ module.exports = {
   sendWelcomeMessage,
   sendDeactivationMessage,
 };
-
-//const sgMail = require("@sendgrid/mail");
-// const sendgridAPIKey =
-//   "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";
-// sgMail.setApiKey(sendgridAPIKey);
-
-// sgMail.send({
-//   to: "m.alibhattissi285@gmail.com",
-//   from: "m.alibhattissi285@gmail.com",
-//   subject: "First Creation",
-//   text: "I hope you will get it",
-// });
