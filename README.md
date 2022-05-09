@@ -1,5 +1,5 @@
 # task-manager-api
-This is puerly a backend practice project, it does not have a GUI. <br/>
+This is puerly a backend project, it does not have a GUI. <br/>
 Inorder to test it you can use POSTMAN, by doing following steps:<br/>
 - let BaseUrl = https://b-task-manager.herokuapp.com
 - First **create a user** you, use following URL:
